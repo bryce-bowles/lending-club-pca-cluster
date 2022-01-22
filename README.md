@@ -1,2 +1,2 @@
 # Lending Club Cluster and Principal Component Analysis
-Performed a Kmeans cluster analysis to identify 7 groups or clusters of the borrowers by income, loan amount, employment length, home ownership status, and debt-to-income ratio. Included Data Preprocessing and Removing Outliers.
+As an assignment for grad school Business Data Analytics class, performed a Kmeans cluster analysis to identify 7 groups or clusters of the borrowers by income, loan amount, employment length, home ownership status, and debt-to-income ratio. Included Data Preprocessing and Removing Outliers. ([Report](4_Assignment-3Cluster_Analysis_and_Principal_Component_Analysis.pdf)
