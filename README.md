@@ -1,10 +1,6 @@
 # Lending Club Cluster and Principal Component Analysis
-Using loan data, performed a Kmeans cluster analysis to identify 7 groups or clusters and two principal component analysis' (PCA) of borrowers by income, loan amount, employment length, home ownership status, and debt-to-income ratio. Included Data Preprocessing and Removing Outliers. ([Report](4_Assignment-3Cluster_Analysis_and_Principal_Component_Analysis.pdf))
+Using loan data, performed a Kmeans cluster analysis to identify 7 groups or clusters and two principal component analysis' (PCA) of borrowers by income, loan amount, employment length, home ownership status, and debt-to-income ratio. All preprocessing steps are explained. Used PCA to identify characteristics of each cluster. Evaluated how clusters compare to assigning applicants to clusters by loan grade. Comparrison supported with visuals. ([Report](4_Assignment-3Cluster_Analysis_and_Principal_Component_Analysis.pdf))
 
-
-## Lending Club Data
-
-Using loan data, performed a Kmeans cluster analysis to identify 7 groups or clusters and two principal component analysis' (PCA) of borrowers with many variables. All preprocessing steps are explained. Clustered the borrowers into seven groups using kmeans clustering. Used PCA to identify characteristics of each cluster.  Included Data Preprocessing and Removing Outliers. Evaluated how clusters compare to assigning applicants to clusters by loan grade. Comparrison supported with visuals.
  
 ## Data Preprocessing and Removing Outliers
 
